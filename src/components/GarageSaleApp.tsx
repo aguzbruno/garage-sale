@@ -33,7 +33,8 @@ const items: Item[] =
   {category:'Casa',description:"Mueble recibidor de melamina y madera con 3 puertas. 120 ANCHO X 90 ALTO X 35 PROFUDNIDAD. ENTRAN 30 PARES DE ZAPATOS O ZAPATILLAS",name:'Mueble recibidor',images:['https://http2.mlstatic.com/D_NQ_NP_2X_842313-MLA31036510265_062019-F.webp   '],id:21,price:120000},
   // {category:'Tech',description:"",name:'auriculares hyperx',images:[''],id:22,price:70000},
   // {category:'Tech',description:"",name:'Silla gamer',images:[''],id:23,price:50000},
-  {category:'Tech',description:"",name:'Drone DJI mini 2',images:[''],id:24,price:700000},
+  {category:'Tech',description:"Drone Dji Mini 2 con Control Remoto y 1 Batería y bolso 3 vuelos de uso",name:'Drone DJI mini 2',images:['https://http2.mlstatic.com/D_NQ_NP_2X_806911-MLU73213831625_122023-F.webp'],id:24,price:700000},
+  {category:'Tech',description:"Teclado Gamer Hyperx Alloy Fps Pro",name:'Teclado Gamer Hyperx Alloy Fps Pro',images:['https://http2.mlstatic.com/D_NQ_NP_2X_975344-MLA78330616470_082024-F.webp'],id:25,price:40000}
   
 ]
 
