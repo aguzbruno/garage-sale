@@ -102,6 +102,7 @@ export default function GarageSaleApp() {
                   </div>
                   <CardHeader>
                     <CardTitle>{item.name}</CardTitle>
+                    <p className="text-muted-foreground">{item.description}</p>
                   </CardHeader>
                   <CardContent>
                     <p className="text-2xl font-bold">${item.price.toLocaleString('es-AR')}</p>
